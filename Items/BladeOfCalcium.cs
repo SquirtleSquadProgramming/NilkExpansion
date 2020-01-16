@@ -14,8 +14,8 @@ namespace NilkExpansion.Items
 		{
 			item.damage = 50;
 			item.melee = true;
-			item.width = 40;
-			item.height = 40;
+			item.width = 32;
+			item.height = 32;
 			item.useTime = 20;
 			item.useAnimation = 20;
 			item.useStyle = 1;
@@ -24,6 +24,7 @@ namespace NilkExpansion.Items
 			item.rare = 2;
 			item.UseSound = SoundID.Item1;
 			item.autoReuse = true;
+            item.scale = 1.5f;
 		}
 
 		public override void AddRecipes()
