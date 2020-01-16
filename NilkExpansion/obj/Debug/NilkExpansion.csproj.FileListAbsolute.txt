@@ -1,0 +1,11 @@
+C:\Users\Daniel\Documents\GitHub\NilkExpansion\NilkExpansion\NilkExpansion\bin\Debug\NilkExpansion.dll
+C:\Users\Daniel\Documents\GitHub\NilkExpansion\NilkExpansion\NilkExpansion\bin\Debug\NilkExpansion.pdb
+C:\Users\Daniel\Documents\GitHub\NilkExpansion\NilkExpansion\NilkExpansion\bin\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Daniel\Documents\GitHub\NilkExpansion\NilkExpansion\NilkExpansion\bin\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Daniel\Documents\GitHub\NilkExpansion\NilkExpansion\NilkExpansion\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Daniel\Documents\GitHub\NilkExpansion\NilkExpansion\NilkExpansion\bin\Debug\Microsoft.Xna.Framework.Xact.dll
+C:\Users\Daniel\Documents\GitHub\NilkExpansion\NilkExpansion\NilkExpansion\bin\Debug\TerrariaML.exe
+C:\Users\Daniel\Documents\GitHub\NilkExpansion\NilkExpansion\NilkExpansion\obj\Debug\NilkExpansion.csprojAssemblyReference.cache
+C:\Users\Daniel\Documents\GitHub\NilkExpansion\NilkExpansion\NilkExpansion\obj\Debug\NilkExpansion.csproj.CopyComplete
+C:\Users\Daniel\Documents\GitHub\NilkExpansion\NilkExpansion\NilkExpansion\obj\Debug\NilkExpansion.dll
+C:\Users\Daniel\Documents\GitHub\NilkExpansion\NilkExpansion\NilkExpansion\obj\Debug\NilkExpansion.pdb
