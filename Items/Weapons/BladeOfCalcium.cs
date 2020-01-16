@@ -7,19 +7,19 @@ namespace NilkExpansion.Items
 	{
 		public override void SetStaticDefaults()
 		{
-			DisplayName.SetDefault("BladeOfCalcium");
-			Tooltip.SetDefault("This is a modded sword.");
+			DisplayName.SetDefault("Blade Of Calcium");
+			Tooltip.SetDefault("A mighty blade of calcium");
 		}
 		public override void SetDefaults()
 		{
-			item.damage = 50;
+			item.damage = 25;
 			item.melee = true;
 			item.width = 32;
 			item.height = 32;
-			item.useTime = 20;
+			item.useTime = 18;
 			item.useAnimation = 20;
 			item.useStyle = 1;
-			item.knockBack = 6;
+			item.knockBack = 4;
 			item.value = 10000;
 			item.rare = 2;
 			item.UseSound = SoundID.Item1;
@@ -31,7 +31,7 @@ namespace NilkExpansion.Items
 		{
 			ModRecipe recipe = new ModRecipe(mod);
 			recipe.AddIngredient(ItemID.DirtBlock, 10);
-			recipe.AddTile(TileID.WorkBenches);
+			recipe.AddTile(TileID.Anvils);
 			recipe.SetResult(this);
 			recipe.AddRecipe();
 		}

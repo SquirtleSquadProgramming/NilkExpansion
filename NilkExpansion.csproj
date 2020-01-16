@@ -33,7 +33,8 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Items\BladeOfCalcium.cs" />
+    <Compile Include="Items\Materials\CalciumEssence.cs" />
+    <Compile Include="Items\Weapons\BladeOfCalcium.cs" />
     <Compile Include="NilkExpansion.cs" />
   </ItemGroup>
   <ItemGroup>
